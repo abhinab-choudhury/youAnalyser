@@ -4,10 +4,6 @@
 
 # YouTube Analyzer 📊
 
-[![GitHub license](https://img.shields.io/github/license/yourusername/youtube-analyzer)](https://github.com/yourusername/youtube-analyzer/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/youtube-analyzer)](https://github.com/yourusername/youtube-analyzer/issues)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/youtube-analyzer)](https://github.com/yourusername/youtube-analyzer/stargazers)
-
 YouTube Analyzer is a web application that provides powerful tools for analyzing various YouTube channels. It allows users to visualize data, view insights, and gain a deeper understanding of channel performance through interactive graphs, tables, and charts.
 
 
@@ -60,7 +56,7 @@ YouTube Analyzer is a web application that provides powerful tools for analyzing
 ### Adding Python Dashboard into React App
   To integrate a Python dashboard into your React app with all its features, you'll typically use a method that allows you to embed the Python dashboard as a web component or iframe within your React application. Here's a step-by-step guide:
 
-  1. **Choose a Python Dashboard Framework:**
+  1. **Choose a Python Dashboard Framework:** 
   First, ensure that your Python dashboard is built using a framework that allows it to be embedded as a web component or iframe. Some popular choices for creating web-based Python dashboards include Flask, Dash by Plotly, and Streamlit.
 
   2. **Expose the Dashboard as a Web Service:**
