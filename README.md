@@ -1,6 +1,12 @@
 <img width="100" height="100" src="https://img.icons8.com/clouds/100/vont.png" alt="vont"/>
 
 ---
+Todo
+- Youtube API
+- Data Analysis
+- Numpy
+- pandas
+- stastics practise for this project
 
 # YouTube Analyzer 📊
 
